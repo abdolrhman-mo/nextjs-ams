@@ -9,10 +9,14 @@ export default function Home() {
         <hr className="border-gray-500" />
         <p>
             A
-            <span className="italic font-semibold"> web development </span>
-            company created by Abdelrahman Makady.
+            <span className="italic font-semibold"> 
+              web development 
+            </span>
+            company specialized in create 
+            <span className="italic font-semibold">
+              e-commerce websites
+            </span>.
         </p>
-        <p>We are specialized in creating e-commerce websites.</p>
       </div>
       <br />
       <br />
