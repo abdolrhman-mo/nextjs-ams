@@ -8,14 +8,9 @@ export default function Home() {
         <h2 className="text-5xl font-semibold">Makady Solutions</h2>
         <hr className="border-gray-500" />
         <p>
-            A
-            <span className="italic font-semibold"> 
-              web development 
-            </span>
+            A <span className="italic font-semibold"> web development </span>
             company specialized in create 
-            <span className="italic font-semibold">
-              e-commerce websites
-            </span>.
+            <span className="italic font-semibold"> e-commerce websites</span>.
         </p>
       </div>
       <br />
