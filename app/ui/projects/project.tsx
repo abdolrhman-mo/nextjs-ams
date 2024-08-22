@@ -12,7 +12,7 @@ export default function Project({
     techUsed: string[]
 }) {
     return (
-        <div className="grid gird-cols-1 md:grid-cols-3 gap-2 md:gap-3">
+        <div className="grid gird-cols-1 md:grid-cols-3 gap-2 md:gap-3 bg-white rounded px-3 py-2 shadow">
             <div className="col-span-1 mb-3">
                 <Link className="hover:underline capitalize group" href={link}>
                     <Heading level={4}>
