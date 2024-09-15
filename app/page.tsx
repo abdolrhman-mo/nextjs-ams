@@ -1,8 +1,6 @@
-import Image from "next/image";
-import Link from "next/link";
-import Contact from "./ui/home/contact";
-import Projects from "./ui/home/projects";
-import Hero from "./ui/home/hero";
+import Contact from "./ui/home/contact"
+import Projects from "./ui/home/projects"
+import Hero from "./ui/home/hero"
 
 export default function Home() {
   return (

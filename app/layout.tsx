@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Makady Solutions - Web Development Company",
+  title: "StorePro - Web Development Company",
   description: "Web Development Company",
 };
 
@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="bg-neutral-100 text-gray-500 pt-10 md:pt-20">
+      <body className="bg-grayBackground text-textColor pt-10 md:pt-20">
         {children}
       </body>
     </html>
